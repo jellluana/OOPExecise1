@@ -1,7 +1,7 @@
 
 
 /**
- * @author Best Friend Raul Villarin / Irgieneo Calderon
+ * @author Best Friend Mark Entero / Irgieneo Calderon
  */
 class Bicycle {
 // Data Member
