@@ -1,7 +1,7 @@
 
 
 /**
- * @author Best Friend Raul Villarin / Irgieneo
+ * @author Best Friend Mark Entero / Irgieneo
  */
 class Account {
 // Data Members
